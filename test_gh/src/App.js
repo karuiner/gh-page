@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import styled from "styled-components";
+
+const Frame = styled.div`
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`;
+
+const H1 = styled.h1`
+  display: flex;
+`;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Frame>
+      <H1>이것은 테스트 페이지 입니다.</H1>
+    </Frame>
   );
 }
 
