@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7ec3132.css",
-    "main.js": "/static/js/main.4947276c.js",
-    "index.html": "/index.html",
-    "main.c7ec3132.css.map": "/static/css/main.c7ec3132.css.map",
-    "main.4947276c.js.map": "/static/js/main.4947276c.js.map"
+    "main.css": "/ghkaruiner.github.io/static/css/main.c7ec3132.css",
+    "main.js": "/ghkaruiner.github.io/static/js/main.d98a7f5c.js",
+    "index.html": "/ghkaruiner.github.io/index.html",
+    "main.c7ec3132.css.map": "/ghkaruiner.github.io/static/css/main.c7ec3132.css.map",
+    "main.d98a7f5c.js.map": "/ghkaruiner.github.io/static/js/main.d98a7f5c.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.4947276c.js"
+    "static/js/main.d98a7f5c.js"
   ]
 }
